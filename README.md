@@ -12,8 +12,8 @@ The applications uses Mantine-v7 library to display the tables from the .json fi
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/radorification/tasko
-    cd tasko
+    git clone https://github.com/radorification/niti-crop-data
+    cd niti-crop-data
     ```
 
 2. **Install Dependencies**
